@@ -1,0 +1,30 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #d3d6da;
+  margin-bottom: 10px;
+}
+
+.header_left {
+  width: 30px;
+  height: 30px;
+}
+
+.title {
+  font-size: 40px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-left: 80px;
+}
+
+.header_right {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+}
+.header_right img {
+  padding-right: 10px;
+  width: 30px;
+  height: 30px;
+}
