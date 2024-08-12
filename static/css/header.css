@@ -13,8 +13,8 @@ header {
 }
 
 .title {
+  font-family: Impact, "Arial Narrow";
   font-size: 40px;
-  font-weight: bold;
   padding-bottom: 10px;
   padding-left: 70px;
 }
